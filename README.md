@@ -10,7 +10,8 @@ Experienced web developer that has three years of industry experience and a weal
 *   🖥️  See my portfolio at [ResumeALB-536950837.us-east-1.elb.amazonaws.com](http://ResumeALB-536950837.us-east-1.elb.amazonaws.com)
 *   ✉️  You can contact me at [givencingco@gmail.com](mailto:givencingco@gmail.com)
 *   🧠  I'm learning Getting my AWS Certified Solutions Architect Certification.
-*   🤝  I'm open to collaborating on AWS Cloud projects### Skills 
+*   🤝  I'm open to collaborating on AWS Cloud projects
+### Skills 
 <p align="left">
 <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
