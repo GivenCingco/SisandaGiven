@@ -1,13 +1,13 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Given Nkosiphendule Cingco
 ==================================================================================================================================================
 
-PHP | Angular | JavaScript | Your future AWS cloud adoption consultant for startups and small businesses.
+PHP | Angular | JavaScript | AWS Certified Cloud Practitioner| Your future AWS cloud adoption consultant for startups and small businesses.
 ---------------------------------------------------------------------------------------------------------
 
 I am a software developer with 3 years experience developing websites and web applications. I have professional experience with PHP and Angular. I've also worked with WordPress, JavaScript, JavaScript, HTML, CSS, PHP, Angular, Ionic, Bootstrap, MySQL, WordPress, GIT/Bitbucket, FIGMA, and Amazon Web Services. Seeking opportunities as an AWS Cloud Support.
 
 *   🌍  I'm based in Johannesburg, South Africa
-*   🖥️  See my portfolio at [ResumeALB-536950837.us-east-1.elb.amazonaws.com](http://ResumeALB-536950837.us-east-1.elb.amazonaws.com)
+*   🖥️  See my portfolio at 
 *   ✉️  You can contact me at [givencingco@gmail.com](mailto:givencingco@gmail.com)
 *   🧠  I'm learning Getting my AWS Certified Solutions Architect Certification.
 *   🤝  I'm open to collaborating on AWS Cloud projects
